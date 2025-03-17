@@ -57,8 +57,7 @@ ChatGPT. (2025, March 17). Explanation of Raspberry Pi components and sensors. O
 
 Raspberry Pi Foundation. (n.d.). Raspberry Pi 4 Model B specifications. Raspberry Pi. Retrieved March 17, 2025, from https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/
 
-
-
+Images were taken from https://github.com/BlitzIR/RaspberryPi?tab=readme-ov-file.
 
 
 
